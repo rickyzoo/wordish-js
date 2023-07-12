@@ -5,4 +5,4 @@ The recording below shows the function of the game properly handling a few diffe
 
 Hope you enjoy!
 
-![screen-gif](./wordish-play.gif)
+![wordish-play](https://github.com/rickyzoo/wordish-js/assets/110248291/b8268b48-d181-467d-9e26-34f4176004f0)
